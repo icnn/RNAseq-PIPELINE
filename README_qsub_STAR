@@ -1,0 +1,5 @@
+# Running star alignment
+# You need to have genomes before you run the script
+# You run it as follows
+rnaseq_qsub_STAR.sh /path/to/yourGenome
+
